@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>Patrick's Run Podcasts</title>
+  <link>https://patrickself.github.io/run-pod-99284d3bd60f3a5c/</link>
+  <atom:link href="https://patrickself.github.io/run-pod-99284d3bd60f3a5c/feed.xml" rel="self" type="application/rss+xml"/>
+  <description>Private listening feed for Patrick's runs.</description>
+  <language>en</language>
+  <itunes:author>Patrick Self</itunes:author>
+  <itunes:owner><itunes:name>Patrick Self</itunes:name></itunes:owner>
+  <itunes:image href="https://patrickself.github.io/run-pod-99284d3bd60f3a5c/cover.png"/>
+  <image><url>https://patrickself.github.io/run-pod-99284d3bd60f3a5c/cover.png</url><title>Patrick's Run Podcasts</title><link>https://patrickself.github.io/run-pod-99284d3bd60f3a5c/</link></image>
+  <itunes:category text="Education"/>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <itunes:block>yes</itunes:block>
+  <item>
+   <title>How AI Agents Differ From Chatbots</title>
+   <description>AI agents explained simply: what makes an AI agent different from a chatbot — tools, planning, memory and acting on your behalf.</description>
+   <itunes:summary>AI agents explained simply: what makes an AI agent different from a chatbot — tools, planning, memory and acting on your behalf.</itunes:summary>
+   <enclosure url="https://patrickself.github.io/run-pod-99284d3bd60f3a5c/episodes/How-AI-Agents-Differ-From-Chatbots-9ac033.m4a" length="44336565" type="audio/x-m4a"/>
+   <guid isPermaLink="false">How-AI-Agents-Differ-From-Chatbots-9ac033</guid>
+   <pubDate>Tue, 03 Nov 2026 22:22:40 GMT</pubDate>
+   <itunes:duration>0:22:57</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+ </channel>
+</rss>
