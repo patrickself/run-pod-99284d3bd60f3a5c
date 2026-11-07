@@ -1,5 +1,14 @@
 [
  {
+  "title": "Agent Skills versus RLHF in AI",
+  "desc": "A beginner explainer of Jimmy Slagle's tweet that skills are dying and goals with RLHF are the future. Covers what AI agent skills are (written playbooks, not human job skills), why some people say they box models in, what RLHF means in plain English, and how chasing a goal with human-feedback training differs from following a written recipe.",
+  "url": "https://patrickself.github.io/run-pod-99284d3bd60f3a5c/episodes/Agent-Skills-versus-RLHF-in-AI-c65271.m4a",
+  "length": 42915980,
+  "duration": "0:22:12",
+  "guid": "Agent-Skills-versus-RLHF-in-AI-c65271",
+  "pub": "Sat, 07 Nov 2026 21:36:08 GMT"
+ },
+ {
   "title": "How AI Agents Differ From Chatbots",
   "desc": "AI agents explained simply: what makes an AI agent different from a chatbot \u2014 tools, planning, memory and acting on your behalf.",
   "url": "https://patrickself.github.io/run-pod-99284d3bd60f3a5c/episodes/How-AI-Agents-Differ-From-Chatbots-9ac033.m4a",
